@@ -1,0 +1,12 @@
+read_comp A, 4, 6
+read_comp B, 2, 7
+print_comp A,
+print_comp, B
+print_comp A
+print_comp B, A
+PRINT_COMP B
+print_comp B
+abs_comp A,,,
+abs_comp B.
+stoP
+stop

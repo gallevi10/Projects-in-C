@@ -1,0 +1,10 @@
+command 1, 2
+add_comp2 , A, B
+READ_COMP A, 1231,5
+STOP
+STOP
+read_comp A 5 1
+read_comp A 5, 1
+read_comp A, 5, 1
+print_comp AB
+print_comp A

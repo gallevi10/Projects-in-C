@@ -1,0 +1,16 @@
+read_comp F, 4.212151, 4554151.3232311
+read_comp E,      				3, 					45				  
+add_comp F, E
+add_comp E, F
+read_comp A, 0, 3.2
+read_comp B, 	3	,    0
+add_comp A, E
+add_comp A, B
+sub_comp E , B
+sub_comp E , E
+mult_comp_comp 				A, F
+mult_comp_real 		A, 			 12
+mult_comp_img 			A, 	1
+abs_comp A
+abs_comp B
+stop					 

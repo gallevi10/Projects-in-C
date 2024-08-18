@@ -1,0 +1,18 @@
+					   read_comp 1121, 54
+  			read_comp A
+  			
+  			
+  			
+  			
+  											print_comp 3
+  											
+  											
+  											
+  											
+  			read_comp A, 3, 6
+  			
+  			
+		add_comp A, A
+stop
+
+print_comp  A

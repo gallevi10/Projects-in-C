@@ -1,0 +1,13 @@
+read_comp A, 3, 4sdkksjd
+sddsread_comp A, 1, 32
+erd read_comp A, 1, 32
+read_comp A, 1, 32
+stop now
+abs_comp AA
+abs_comp A
+read_comp B,    			1, 				1
+mult_comp_comp, A, B
+mult_comp_comp A, B,
+mult_comp_comp A,
+mult_comp_comp A, B
+stop
