@@ -2,8 +2,8 @@
 
 ## Overview
 
-This program provides a command-line interface for performing operations on complex numbers.
-Users can update, print, and perform various arithmetic operations (addition, subtraction, multiplication) on complex numbers.
+This program provides a command-line interface for performing operations on complex numbers.<br>
+Users can update, print, and perform various arithmetic operations (addition, subtraction, multiplication) on complex numbers.<br>
 The program also calculates the absolute value of complex numbers.
 
 ## Features
